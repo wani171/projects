@@ -1,0 +1,11 @@
+Model Information:
+* title:	Conference room
+* source:	https://sketchfab.com/3d-models/conference-room-246a37f770ca4ef4b2ba22b2b425f97f
+* author:	zubair-irshad (https://sketchfab.com/zubairirshad)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Conference room" (https://sketchfab.com/3d-models/conference-room-246a37f770ca4ef4b2ba22b2b425f97f) by zubair-irshad (https://sketchfab.com/zubairirshad) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
